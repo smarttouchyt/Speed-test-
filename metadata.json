@@ -1,0 +1,6 @@
+{
+  "name": "Internet Speed Test",
+  "description": "A highly accurate internet speed test, latency, and jitter logger with a data usage tracker and background scheduler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
